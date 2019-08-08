@@ -5,6 +5,11 @@ public class CLASS1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("five");
+		System.out.println("five");
+		System.out.println("five");
+		System.out.println("five");
+		System.out.println("five");
+		System.out.println("five");
 		
 		
 		
